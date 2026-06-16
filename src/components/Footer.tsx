@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
             <h3 className="text-white font-semibold mb-4">Contacto</h3>
             <div className="space-y-2 text-sm text-slate-400">
               <p className="hover:text-emerald-400 transition-colors">espinozafrancisco.v@gmail.com</p>
-              <p className="hover:text-emerald-400 transition-colors">securit@gmail.com</p>
+              <p className="hover:text-emerald-400 transition-colors">securitCiberseguridad.contacto@gmail.com</p>
             </div>
           </div>
         </div>
